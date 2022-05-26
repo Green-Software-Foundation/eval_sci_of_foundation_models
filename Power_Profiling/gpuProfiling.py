@@ -1,8 +1,8 @@
-### This program requires the py3nvml library
-### pip install py3nvml
+# This program requires the py3nvml library
+# pip install py3nvml
 
-### Usage: python gpuProfiling.py [sampling interval] [filename] [sampling time] 
-### e.g. python gpuProfiling.py 1 test 10  (sampling time is 1/sec, filename is test, sample for 10 seconds)
+# Usage: python gpuProfiling.py [sampling interval] [filename] [sampling time] 
+# e.g. python gpuProfiling.py 1 test 10  (sampling time is 1/sec, filename is test, sample for 10 seconds)
 
 import py3nvml.nvidia_smi as nvml
 import datetime
