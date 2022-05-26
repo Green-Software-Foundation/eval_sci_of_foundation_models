@@ -7,6 +7,4 @@ The AITests folder contains the python scripts to load and run foundation models
 
 The Power_Profiling folder contains the source code of power profiling tools - new code will be released to this folder once tested
 
-The Experiments floder contains all experiments and results. 
-
-The Report folder contains the proposal with project progress update. We will also release the technical report later. 
+The Report folder contains the proposal with project progress update. We will also release the experimental results and technical report here. 
