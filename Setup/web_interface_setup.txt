@@ -1,4 +1,5 @@
-// This instruction shows how to run an open-source foundation model from https://huggingface.co/ via Gradio. Gradio is a covienent way to demo your machine learning model with a friendly web interface.
+# This instruction shows how to run an open-source foundation model from https://huggingface.co/ via Gradio. 
+# Gradio is a covienent way to demo your machine learning model with a friendly web interface.
 
 (base) zong@rainbow-panda:~/AITests$ pip install gradio
 Collecting gradio
